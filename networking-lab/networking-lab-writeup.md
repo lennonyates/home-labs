@@ -41,7 +41,7 @@ The first device to set-up for this lab was the PfSense firewall, this would all
 
 ![setup firewall dashboard](screenshots/firewall-dashboard.png)
 ![active firewall dhcp leases](screenshots/firewall-dhcp.png)
-![firewall rules](screenshots/firewall-rules)
+![firewall rules](screenshots/firewall-rules.png)
 
 ## Active Directory DS & DNS server
 
@@ -90,7 +90,7 @@ Finally, I wanted to create a machine to simulate how I would access these machi
 * Added the shared directory as a Mapped Network Location.
 * Tested connectivity across the network.
 ![mapped network drive](screenshots/mapped-network-drive.png)
-![connectivity across network](screenshots/connectivity-across-network.png)
+![connectivity across network](screenshots/connectivty-across-network.png)
 
 As you can see from all of the screenshots, I accessed all the machines remotely.
 
