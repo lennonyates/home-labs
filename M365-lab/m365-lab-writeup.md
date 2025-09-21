@@ -13,7 +13,8 @@ This is the technology you will most likely see in a business environment, with 
 ## Creating the users
 
 In order to learn user management on this platform, I need to come up with some users to create. For this task I generated a small business with 20 employees, so I had some accounts to create.
-![employee list](screenshots/employee-list.pdf)
+![employee list](screenshots/employee-list-1.png)
+![employee list](screenshots/employee-list-2.png)
 
 ## Adding these user to Microsoft 365
 
