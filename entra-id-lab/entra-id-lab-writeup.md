@@ -98,7 +98,8 @@ I enjoyed creating this lab, and thought overall it went well, following all the
 
  I am currently using groups to sort employees into their work departments. This means I have to individually assign all roles and permissions to users. This isn't the best practice for configuring these permissions, and in future labs, I will create different security groups for the departments that require them, like creating a sg-sales group, and adding the sales management team, allowing them to upgrade and install applications on their systems.
 
- * Choosing strength of MFA policy
+* Choosing strength of MFA policy
 
  I have created a policy requiring users to use MFA, but have not specified how strong the authentication needs to be. In future I would change the required strength of this policy to ensure that employees used strong methods of authentication, such as a hardware authentication key, or the Microsoft Authenticator app.
+
 
