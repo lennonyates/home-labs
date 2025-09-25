@@ -58,6 +58,32 @@ When you are working in IT support, it is rare you will have to set up an enviro
 ![resetting user password](screenshots/password-reset.png)
 ![unlocking a user account](screenshots/unlock-account.png)
 
+Ocassionally, a company may use a shared mailbox in order to collectively message many users at once. This is another task that you will see often in IT support work, so I decided to simulate setting up a shared mailbox for my IT team. Here are the steps:
+
+* Log in to the Microsoft 365 admin panel.
+* From the left hand menu, select 'Teams & groups'.
+* Select 'Shared mailboxes'
+* From the shared mailboxes screen, select 'Add a shared mailbox'.
+* Enter the name for the mailbox.
+* Select the email address for the shared mailbox.
+* Select 'Save changes'.
+* Select your shared mailbox.
+* Under 'Members' select the 'Edit' option.
+* Add the relevant member accounts to the group.
+* Save your changes.
+![creating a shared mailbox](screenshots/created-shared-mailbox.png)
+
+Now I had created the mailbox, I needed to add it to my Outlook web application. Here are the steps I took:
+
+* Opened Outlook web application.
+* Right clicked on my email account.
+* Selected the 'Add shared folder or mailbox'.
+* Enter the address for the shared mailbox.
+* Select 'Continue' to add the mailbox.
+* Test the mailbox by sending a short email.
+![added the shared mailbox](screenshots/added-shared-mailbox.png)
+![sent test email](screenshots/test-mail.png)
+
 
 ## What I learned from this lab
 
@@ -69,6 +95,7 @@ This lab was incredibly helpful in educating myself in a platform I have not pre
 * Resetting Microsoft 365 user passwords.
 * Unlocking Microsoft 365 user accounts.
 * Defining a users permissions.
+* Setting up shared mailboxes.
 
 ## Things I would do differently
 
